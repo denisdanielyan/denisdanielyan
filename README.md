@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisdanielyan
-- CEO gravity&storm GmbH
+- CEO [gravity&storm GmbH](https://www.gravityandstorm.de)
 - 👀 I’m interested in react / next.js / serverless
 - 📫 How to reach me denis.danielyan@gravityandstorm.de
 
